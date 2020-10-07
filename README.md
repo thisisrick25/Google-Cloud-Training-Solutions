@@ -6,4 +6,4 @@ Soutions are catagorized according to the lab number. Lab numbers can find under
 
 _example:_
 
-![img](images\InkedCapture_LI.jpg)
+![img](images/InkedCapture_LI.jpg)
